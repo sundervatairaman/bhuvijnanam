@@ -8,5 +8,4 @@
 
 Bhuvigyan  collects no information 
 
-Vatai Raman  
-[vatairaman@gmail.com]
+
